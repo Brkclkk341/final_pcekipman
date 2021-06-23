@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57375905336",
+    "project_id": "bilgisayar-ekipman",
+    "storage_bucket": "bilgisayar-ekipman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57375905336:android:e14f9c58b79a8cdc8278cd",
+        "android_client_info": {
+          "package_name": "com.example.ekipman_pc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57375905336-q1kmhdae6d57nv5m75jgnv71p46uhe6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ekipman_pc",
+            "certificate_hash": "fd7599f68b1ce73690c38adf0a4d70833643c539"
+          }
+        },
+        {
+          "client_id": "57375905336-mbq3tgbc589reaaf6ua6ocdocp3qkhm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ql0vN9kSDqdMJNorr0ljz975WCrRvmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57375905336-mbq3tgbc589reaaf6ua6ocdocp3qkhm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
